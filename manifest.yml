@@ -1,0 +1,7 @@
+---
+applications:
+- name: x-gov-forms
+  memory: 64M
+  path: ./build
+  buildpacks:
+    - staticfile_buildpack

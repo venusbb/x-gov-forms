@@ -1,0 +1,9 @@
+deploy:
+  edge: true
+  provider: cloudfoundry
+  username: venus.bailey+travis@digital.cabinet-office.gov.uk
+  api: https://api.london.cloud.service.gov.uk
+  organization: gds-cta
+  space: services
+  password:
+    secure: w7aspSDoONzOT4ia2t8eePmfOEiTOydNj4khyM/vOdOu6ucPsLV7TZ2mu5vTnHKW5eljCR/9O7XuuKWvnk8FcQ4KMuwEU4muysemmATFhaAY72645u9u1ur/cuMxg73ipAC2HFs9txiO6Bj3I8/QFmWajdycDg6r8EUrz4pwob0s+fQUf8eHO27mftY0S6t5l7eNGqVuc94yiqoBG/aHcczrlTlTjTGEVyxentixMoT9dNhjA8Y9vPk77BXjriduees/rVMe1gtEA0BgxnvYykCYxem10wWdY/tZkbeovE4cZCU4Y9bUfby7/9I+6W9NuPYsugpwSq5Og2cIPP8eeukMKlCwxcUv2wlWKh/sfqqTiomysPgTWo2tHMH7MOSP0gtUOghMATcmhgyP8dBku03b6W50IFD5j657IIU+Dc4LRk1WElD89UVUbAnMsOS8MctGsTkb+/jmfK4GnHT+4TLOzzxpuOrHmHcWeZ7Sxnko/xKkqRuc71bUE8bM/9xjX9DLwooBQgLrKjJKwS9A4qdsVsWF839jMProN/xoMgpuQoaAZjyBgoRhoEzHvcelyJvu+3DDRs6mKviNjcTrYlMjKRXgORv7eGTwW4DJu7/BR1sDkORuQE6rvca3nDBDg+SI+5Pa11Sh3HPRCa8ZH56fK4021rddlJ4OaYg3+9Q=

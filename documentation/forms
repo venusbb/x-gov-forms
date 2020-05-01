@@ -1,0 +1,54 @@
+<h1 id="government-forms">Government Forms</h1><h6 id="tags-forms-wiki">tags: <code>Forms</code> <code>Wiki</code></h6><h2 id="uk-government-open-source-solutions">UK Government open source solutions</h2><h3 id="gds-solutions">GDS solutions</h3>
+<ul>
+<li><a href="prototyping">GOV.UK design systems</a>(https://design-system.service.gov.uk/)</li>
+<li><a href="https://github.com/alphagov/govuk-frontend">GOV.UK frontend</a></li>
+<li><a href="https://www.cloud.service.gov.uk/">GOV.UK PaaS</a> (platform for hosting + datastore)</li>
+</ul>
+<h4 id="project-uses-this-solution">Project uses this solution</h4>
+<ul>
+<li>Service Manual User Survey</li>
+<li><a href="https://github.com/alphagov/govuk-coronavirus-business-volunteer-form">Corona business volunteer form</a></li>
+<li><a href="https://github.com/alphagov?q=corona&amp;type=&amp;language=https://trello.com/b/Wff9plbb/coronavirus-volunteering">Corna Vulnerable people form</a></li>
+</ul>
+<h3 id="x-gov-departments-form-builders">X-gov departments “form builders”</h3>
+<ul>
+<li><a href="https://github.com/DFE-Digital/govuk_design_system_formbuilder">DFE form builder</a></li>
+<li><a href="https://github.com/dwp/dwp-design">DWP form design</a></li>
+<li><a href="https://github.com/ministryofjustice/govuk_elements_form_builder">MoJ elements form builder</a>/ <a href="https://form-builder-user-guide.form.service.justice.gov.uk/what-youll-need">documentation</a> -&gt; <a href="https://github.com/ministryofjustice/form-builder">MoJ form builder</a></li>
+<li><a href="https://github.com/UKHomeOfficeForms">Home office form builder</a></li>
+<li><a href="https://github.com/DEFRA/digital-form-builder">Defra digital form builder</a></li>
+<li><a href="https://github.com/UKForeignOffice/digital-form-builder">FCO digital form builder</a></li>
+<li><a href="https://github.com/search?q=org%3Ahmcts+form&amp;unscoped_q=form">HMCTS sets of form builders</a></li>
+<li><a href="https://github.com/hmrc?q=form&amp;type=&amp;language=">Ofsted(HMRC) forms</a></li>
+<li><a href="https://github.com/hmrc?q=form&amp;type=&amp;language=">NHS formbuilder wales</a></li>
+<li><a href="https://github.com/UKGovernmentBEIS/beis-forms-frontend">BEIS forms-frontend</a> and <a href="https://github.com/UKGovernmentBEIS/beis-forms-backend">BEIS forms-backend</a></li>
+<li><a href="https://github.com/dwp/govuk-casa">DWP casa</a></li>
+</ul>
+
+<!-- ![](https://i.imgur.com/0MNCvow.png) -->
+<h2 id="commercial-offerings">Commercial offerings</h2>
+<ul>
+<li>Form.io - <a href="https://github.com/formio/formio">open source</a></li>
+<li><a href="https://www.uxforms.com/documentation/">UXform</a> / Equal expert</li>
+<li><a href="https://govforms.co.uk/">govforms</a> <a href="https://hackmd.io/fKrZ0Zv3SAKqqyToj_2EVg">screenshots</a></li>
+<li><a href="https://surveyoptic.com/">Surveyoptics</a></li>
+<li><a href="https://www.digitalmarketplace.service.gov.uk/g-cloud/search?q=form%20building&amp;lot=cloud-software">Form builders on G-Cloud</a></li>
+<li><a href="https://equiniti-toplevel.com/">Equiniti-toplevel open design studio</a>/ <a href="https://equiniti-toplevel.com/media/1884/7593_toplevel_open_design_studio_v5.pdf">pdf</a></li>
+</ul>
+<h2 id="commodity-products">Commodity products</h2>
+<ul>
+<li>Google forms</li>
+<li>MS forms</li>
+<li>Survey monkey</li>
+</ul>
+<h2 id="gds-submit-repositories">GDS Submit Repositories</h2><p>GDS submit project in Alpha was decommissioned. Various submit repositories are:
+https://github.com/alphagov/paas-submit
+https://github.com/alphagov/submit-prototype-kit
+https://github.com/alphagov/submit-forms</p>
+<p>In submit repository:
+- <a href="https://github.com/alphagov/submit-prototype-kit/tree/master/examples">Form json example</a>
+- <a href="https://github.com/alphagov/submit-prototype-kit/tree/master/schemas">Form specifications</a></p>
+<h2 id="international-governments">International Governments</h2>
+<ul>
+<li>Singapore Government Form builders <a href="https://docs.google.com/presentation/d/1Yq_T8jOhAHA3BLyn1H7cPMBICKYCUmARxRUIe2hwno4/edit#slide=id.g62bfdc73d3_0_778">presentation</a></li>
+</ul>

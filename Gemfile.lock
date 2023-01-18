@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.2.4.3)
+    activesupport (5.0.7.2)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
@@ -44,7 +44,7 @@ GEM
     fast_blank (1.0.0)
     fastimage (2.1.7)
     ffi (1.12.2)
-    govuk_tech_docs (2.0.12)
+    govuk_tech_docs (2.2.0)
       activesupport
       chronic (~> 0.10.2)
       middleman (~> 4.0)
@@ -144,7 +144,7 @@ GEM
       coderay (~> 1.1)
       method_source (~> 1.0)
     public_suffix (4.0.4)
-    rack (2.2.2)
+    rack (2.2.6.2)
     rack-livereload (0.3.17)
       rack
     rb-fsevent (0.10.3)
